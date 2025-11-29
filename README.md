@@ -4,14 +4,14 @@ The code of paper [DiffMissing: Denoising Diffusion Model for Multivariate Time 
 
 
 
-#### Datasets
+### Datasets
 
 - METRLA
 - PEMS08
 - PEMSBAY
 - Weather
 
-#### How to run
+### How to run
 
 ```bash
 cd scripts/
@@ -21,7 +21,7 @@ bash ./PEMSBAY.sh
 bash ./Weather.sh
 ```
 
-#### Citation
+### Citation
 
 > @INPROCEEDINGS{11210227,
 >   author={Pang, Bingheng and Li, Wei and Liang, Zhuoxuan and Chen, Yidan and Wang, Zhihong and Youssef, Moustafa},
