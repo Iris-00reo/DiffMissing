@@ -23,13 +23,16 @@ bash ./Weather.sh
 
 ### Citation
 
-> @INPROCEEDINGS{11210227,
->   author={Pang, Bingheng and Li, Wei and Liang, Zhuoxuan and Chen, Yidan and Wang, Zhihong and Youssef, Moustafa},
->   booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
->   title={DiffMissing: Denoising Diffusion Model for Multivariate Time Series Forecasting with Variable Missing}, 
->   year={2025},
->   volume={},
->   number={},
->   pages={1-6},
->   keywords={Adaptation models;Time series analysis;Noise reduction;Predictive models;Diffusion models;Imputation;Data models;Data mining;Forecasting;Multivariate time series forecasting;Variable missing;Diffusion model;Adaptive sparse attention},
->   doi={10.1109/ICME59968.2025.11210227}}
+```python
+@INPROCEEDINGS{11210227,
+  author={Pang, Bingheng and Li, Wei and Liang, Zhuoxuan and Chen, Yidan and Wang, Zhihong and Youssef, Moustafa},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={DiffMissing: Denoising Diffusion Model for Multivariate Time Series Forecasting with Variable Missing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Adaptation models;Time series analysis;Noise reduction;Predictive models;Diffusion models;Imputation;Data models;Data mining;Forecasting;Multivariate time series forecasting;Variable missing;Diffusion model;Adaptive sparse attention},
+  doi={10.1109/ICME59968.2025.11210227}}
+```
+
